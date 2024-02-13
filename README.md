@@ -4,7 +4,7 @@
 
 📍 New York City, New York
 📧 mm13@fordham.edu
-💼 LinkedIn
+💼 https://www.linkedin.com/in/mohammadmurtuza/
 
 <h2>About Me</h2>
 
