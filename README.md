@@ -4,7 +4,6 @@
 
 📍 New York City, New York
 📧 mm13@fordham.edu
-📞 (+1) 201-589-7197
 💼 LinkedIn
 
 <h2>About Me</h2>
