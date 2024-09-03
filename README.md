@@ -33,7 +33,7 @@ CapDev Intern
 Pearson, Hoboken, New Jersey
 Jun 2023 – Aug 2024
 
-Data Analytics Intern (Virtual)
+•	Data Analytics Intern (Virtual)
 AICTE - Eduskills, New Delhi
 Dec 2022 – Feb 2023
 
