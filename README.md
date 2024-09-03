@@ -29,8 +29,8 @@ I am a passionate and dedicated software engineer with a strong background in co
 <h2>Experience</h2>
 
 •	Internships
-CapDev Intern
-Pearson, Hoboken, New Jersey
+CapDev Intern <br />
+Pearson, Hoboken, New Jersey<br />
 Jun 2023 – Aug 2024
 
 •	Data Analytics Intern (Virtual)
