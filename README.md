@@ -29,27 +29,27 @@ I am a passionate and dedicated software engineer with a strong background in co
 <h2>Experience</h2>
 
 •	Internships
-CapDev Intern <br />
-Pearson, Hoboken, New Jersey<br />
+CapDev Intern, 
+Pearson, Hoboken, New Jersey
 Jun 2023 – Aug 2024
 
-•	Data Analytics Intern (Virtual)
+•	Data Analytics Intern (Virtual),
 AICTE - Eduskills, New Delhi
 Dec 2022 – Feb 2023
 
-•	Software Development Intern
+•	Software Development Intern,
 Daily Urdu Net, New Delhi
 Aug 2022 – Oct 2022
 
-•	AIML Intern (Virtual)
+•	AIML Intern (Virtual),
 AICTE - Eduskills, New Delhi
 Jul 2022 – Sep 2022
 
-•	Software Developer Intern
+•	Software Developer Intern,
 Hermanos by Style Souk, New Delhi
 Mar 2022 – Jul 2022
 
-•	Sales and Marketing Intern
+•	Sales and Marketing Intern,
 Hero MotoCorp, New Delhi
 Jul 2021 – Aug 2021
 
