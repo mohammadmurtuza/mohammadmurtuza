@@ -14,7 +14,7 @@ I am a passionate and dedicated software engineer with a strong background in co
 
 •	Programming Languages: Python, Java, C, C++
 
-
+• Cloud & DevOps Tools: Amazon EKS, GitLab CI/CD, Terraform, Kubernetes, Docker, Podman, AWS CloudFormation, GitOps, Flux, Helm
 
 •	Web Technologies: HTML, CSS, JavaScript
 
@@ -29,6 +29,10 @@ I am a passionate and dedicated software engineer with a strong background in co
 <h2>Experience</h2>
 
 •	Internships
+CapDev Intern
+Pearson, Hoboken, New Jersey
+Jun 2023 – Aug 2024
+
 Data Analytics Intern (Virtual)
 AICTE - Eduskills, New Delhi
 Dec 2022 – Feb 2023
